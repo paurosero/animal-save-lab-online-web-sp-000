@@ -7,7 +7,7 @@ html {
   top: 50px;
   right: 0;
 }
-@media only screen {
+@media only screen and ({
   
 }
 /* Write your solution here */
