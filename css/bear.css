@@ -9,7 +9,7 @@ html {
 }
 @media only screen (min-width: 1196px) {
   #bear {
-    position-left: 800px;
+    left: 800px;
 }
 /* Write your solution here */
 
