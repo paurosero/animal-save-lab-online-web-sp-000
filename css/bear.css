@@ -7,8 +7,9 @@ html {
   top: 100px;
   right: 0;
 }
-@media only screen (max-width: 1196px) {
-  
+@media only screen (min-width: 1196px) {
+  #bear {
+    position-left: 800px;
 }
 /* Write your solution here */
 
